@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/back">
+        <file alias="back">WOOD.GIF</file>
+        <file>check.wav</file>
+    </qresource>
+    <qresource prefix="/Chessman">
+        <file>RR.GIF</file>
+        <file>RP.GIF</file>
+        <file>RN.GIF</file>
+        <file>RK.GIF</file>
+        <file>RC.GIF</file>
+        <file>RB.GIF</file>
+        <file>RA.GIF</file>
+        <file>BR.GIF</file>
+        <file>BP.GIF</file>
+        <file>BN.GIF</file>
+        <file>BK.GIF</file>
+        <file>BC.GIF</file>
+        <file>BB.GIF</file>
+        <file>BA.GIF</file>
+        <file>wait.png</file>
+        <file>slected.png</file>
+    </qresource>
+</RCC>
